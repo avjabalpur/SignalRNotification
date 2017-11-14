@@ -15,6 +15,7 @@ namespace signalRNotification.Notification
         private const string topic = "License";
         public void Send()
         {
+
             //TODO Have to read db and send notifications if db updated
             var context = GlobalHost.ConnectionManager.GetHubContext<NotificationHub>();
             context.Clients.All.broadcastNotification(topic, "Your License got expire"); //TODO proper message has to change

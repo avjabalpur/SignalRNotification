@@ -1,0 +1,39 @@
+﻿Installing assembly 'D:\Rnd\c#\signalRNotification\signalRNotification\signalRNotification\bin\Debug\signalRNotification.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Rnd\c#\signalRNotification\signalRNotification\signalRNotification\bin\Debug\signalRNotification.InstallLog
+   assemblypath = D:\Rnd\c#\signalRNotification\signalRNotification\signalRNotification\bin\Debug\signalRNotification.exe
+Installing service ERPNotification...
+Creating EventLog source ERPNotification in log Application...
+Rolling back assembly 'D:\Rnd\c#\signalRNotification\signalRNotification\signalRNotification\bin\Debug\signalRNotification.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Rnd\c#\signalRNotification\signalRNotification\signalRNotification\bin\Debug\signalRNotification.InstallLog
+   assemblypath = D:\Rnd\c#\signalRNotification\signalRNotification\signalRNotification\bin\Debug\signalRNotification.exe
+Restoring event log to previous state for source ERPNotification.
+Installing assembly 'D:\Rnd\c#\signalRNotification\signalRNotification\signalRNotification\bin\Debug\signalRNotification.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Rnd\c#\signalRNotification\signalRNotification\signalRNotification\bin\Debug\signalRNotification.InstallLog
+   assemblypath = D:\Rnd\c#\signalRNotification\signalRNotification\signalRNotification\bin\Debug\signalRNotification.exe
+Installing service ERPNotification...
+Creating EventLog source ERPNotification in log Application...
+Rolling back assembly 'D:\Rnd\c#\signalRNotification\signalRNotification\signalRNotification\bin\Debug\signalRNotification.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Rnd\c#\signalRNotification\signalRNotification\signalRNotification\bin\Debug\signalRNotification.InstallLog
+   assemblypath = D:\Rnd\c#\signalRNotification\signalRNotification\signalRNotification\bin\Debug\signalRNotification.exe
+Restoring event log to previous state for source ERPNotification.
+Installing assembly 'D:\Rnd\c#\signalRNotification\signalRNotification\signalRNotification\bin\Debug\signalRNotification.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Rnd\c#\signalRNotification\signalRNotification\signalRNotification\bin\Debug\signalRNotification.InstallLog
+   assemblypath = D:\Rnd\c#\signalRNotification\signalRNotification\signalRNotification\bin\Debug\signalRNotification.exe
+Installing service ERPNotification...
+Service ERPNotification has been successfully installed.
+Creating EventLog source ERPNotification in log Application...
+Committing assembly 'D:\Rnd\c#\signalRNotification\signalRNotification\signalRNotification\bin\Debug\signalRNotification.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Rnd\c#\signalRNotification\signalRNotification\signalRNotification\bin\Debug\signalRNotification.InstallLog
+   assemblypath = D:\Rnd\c#\signalRNotification\signalRNotification\signalRNotification\bin\Debug\signalRNotification.exe

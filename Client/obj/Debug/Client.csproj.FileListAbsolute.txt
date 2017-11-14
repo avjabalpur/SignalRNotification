@@ -1,0 +1,17 @@
+D:\Rnd\c#\Self-Hosting SignalR in a Windows Service\C#\Client\bin\Client.dll.config
+D:\Rnd\c#\Self-Hosting SignalR in a Windows Service\C#\Client\bin\Client.dll
+D:\Rnd\c#\Self-Hosting SignalR in a Windows Service\C#\Client\bin\Client.pdb
+D:\Rnd\c#\Self-Hosting SignalR in a Windows Service\C#\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+D:\Rnd\c#\Self-Hosting SignalR in a Windows Service\C#\Client\obj\Debug\Client.dll
+D:\Rnd\c#\Self-Hosting SignalR in a Windows Service\C#\Client\obj\Debug\Client.pdb
+D:\Rnd\c#\signalr\C#\Client\bin\Client.dll.config
+D:\Rnd\c#\signalr\C#\Client\bin\Client.dll
+D:\Rnd\c#\signalr\C#\Client\bin\Client.pdb
+D:\Rnd\c#\signalr\C#\Client\obj\Debug\Client.dll
+D:\Rnd\c#\signalr\C#\Client\obj\Debug\Client.pdb
+D:\Rnd\c#\signalRNotification\signalRNotification\Client\bin\Client.dll.config
+D:\Rnd\c#\signalRNotification\signalRNotification\Client\bin\Client.dll
+D:\Rnd\c#\signalRNotification\signalRNotification\Client\bin\Client.pdb
+D:\Rnd\c#\signalRNotification\signalRNotification\Client\obj\Debug\Client.dll
+D:\Rnd\c#\signalRNotification\signalRNotification\Client\obj\Debug\Client.pdb
+D:\Rnd\c#\signalRNotification\signalRNotification\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache

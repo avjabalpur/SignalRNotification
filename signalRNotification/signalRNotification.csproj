@@ -96,7 +96,7 @@
     <Compile Include="Notification\DbUpdate.cs" />
     <Compile Include="Notification\INotification.cs" />
     <Compile Include="IStartup.cs" />
-    <Compile Include="NotificationHub.cs" />
+    <Compile Include="Hubs\NotificationHub.cs" />
     <Compile Include="Notification\License.cs" />
     <Compile Include="ProjectInstaller.cs">
       <SubType>Component</SubType>

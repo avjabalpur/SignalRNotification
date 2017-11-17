@@ -4,7 +4,7 @@ using Microsoft.AspNet.SignalR;
 using signalRNotification.Notification;
 using System.Timers;
 
-namespace signalRNotification
+namespace signalRNotification.Hubs
 {
     /// <summary>
     /// Notification hub class for sending notification

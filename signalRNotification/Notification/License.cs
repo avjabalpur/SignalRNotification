@@ -1,4 +1,5 @@
 ﻿using Microsoft.AspNet.SignalR;
+using signalRNotification.Hubs;
 using System;
 using System.Collections.Generic;
 using System.Linq;

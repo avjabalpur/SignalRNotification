@@ -14,4 +14,3 @@ D:\Rnd\c#\signalRNotification\signalRNotification\Client\bin\Client.dll
 D:\Rnd\c#\signalRNotification\signalRNotification\Client\bin\Client.pdb
 D:\Rnd\c#\signalRNotification\signalRNotification\Client\obj\Debug\Client.dll
 D:\Rnd\c#\signalRNotification\signalRNotification\Client\obj\Debug\Client.pdb
-D:\Rnd\c#\signalRNotification\signalRNotification\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache

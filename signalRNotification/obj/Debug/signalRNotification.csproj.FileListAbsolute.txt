@@ -28,4 +28,3 @@ D:\Rnd\c#\signalRNotification\signalRNotification\signalRNotification\obj\Debug\
 D:\Rnd\c#\signalRNotification\signalRNotification\signalRNotification\obj\Debug\signalRNotification.csproj.GenerateResource.Cache
 D:\Rnd\c#\signalRNotification\signalRNotification\signalRNotification\obj\Debug\signalRNotification.exe
 D:\Rnd\c#\signalRNotification\signalRNotification\signalRNotification\obj\Debug\signalRNotification.pdb
-D:\Rnd\c#\signalRNotification\signalRNotification\signalRNotification\obj\Debug\signalRNotification.csprojResolveAssemblyReference.cache
